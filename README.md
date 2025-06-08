@@ -1,8 +1,3 @@
-git-basics-devops-project/
-├── hello-world.txt
-├── README.md
-├── changelog.md
-├── .gitignore
 
 **Git Basics: DevOps Beginner Project**
 
