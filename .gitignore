@@ -1,0 +1,12 @@
+---
+```gitignore
+# Ignore Python cache and log files (example)
+__pycache__/
+*.pyc
+
+# Ignore temp files
+temp/
+*.log
+
+# macOS system files
+.DS_Store
